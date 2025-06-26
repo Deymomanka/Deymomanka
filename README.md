@@ -13,29 +13,21 @@ Pythonによるデータ抽出、データ前処理、可視化、データ分�
 
 #### 💻 プログラミング言語　####　Python, R, SQL
 
-🔍 データ分析・機械学習（Python）
-データ前処理: NumPy, Pandas
+| カテゴリ              | ツール・ライブラリ                                                   |
+| ----------------- | ----------------------------------------------------------- |
+| 💻 プログラミング言語      | Python, R, SQL                                              |
+| 🔍 データ前処理         | NumPy, Pandas                                               |
+| 📊 データ可視化         | Matplotlib, Seaborn, Altair, Plotly                         |
+| 📐 統計分析・モデリング     | SciPy, Scikit-learn                                         |
+| 🤖 機械学習・深層学習      | Scikit-learn, TensorFlow, PyTorch                           |
+| 🛠️ フレームワーク・ライブラリ | Streamlit                                                   |
+| 🗄️ データベース        | PostgreSQL, MySQL                                           |
+| 📊 BIツール          | Tableau                                                     |
+| 🧪 開発環境           | Jupyter Notebook, Google Colab, Visual Studio Code (VSCode) |
+| 🔧 その他            | Git, Kaggle                                                 |
 
-データ可視化: Matplotlib, Seaborn, Altair, Plotly
 
-統計分析・モデリング: SciPy, Scikit-learn
 
-機械学習・深層学習: Scikit-learn, TensorFlow, PyTorch
-
-🛠️ フレームワーク・ライブラリ
-Streamlit
-
-🗄️ データベース
-PostgreSQL, MySQL
-
-📊 BIツール
-Tableau
-
-🧪 開発環境
-Jupyter Notebook, Google Colab, Visual Studio Code (VSCode)
-
-🔧 その他
-Git, Kaggle
 
 
 <!--
