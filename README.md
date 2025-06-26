@@ -18,7 +18,7 @@ Pythonによるデータ抽出、データ前処理、可視化、データ分�
 | 📊 データ可視化         | Matplotlib, Seaborn, Altair, Plotly                         |
 | 📐 統計分析・モデリング     | SciPy, Scikit-learn                                         |
 | 🤖 機械学習・深層学習      | Scikit-learn, TensorFlow, PyTorch                           |
-| 🛠️ フレームワーク・ライブラリ | Streamlit                                                   |
+| 🛠️ フレームワーク | Streamlit                                                   |
 | 🗄️ データベース        | PostgreSQL, MySQL                                           |
 | 📊 BIツール          | Tableau                                                     |
 | 🧪 開発環境           | Jupyter Notebook, Google Colab, Visual Studio Code (VSCode) |
