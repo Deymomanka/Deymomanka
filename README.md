@@ -21,7 +21,7 @@ Pythonによるデータ抽出、データ前処理、可視化、データ分�
 | 🛠️ フレームワーク | Streamlit                                                   |
 | 🗄️ データベース        | PostgreSQL, MySQL                                           |
 | 📊 BIツール          | Tableau                                                     |
-| 🧪 開発環境           | Jupyter Notebook, Google Colab, Visual Studio Code (VSCode) |
+| 🧪 開発環境           | Jupyter Notebook, Google Colab, VSCode |
 | 🔧 その他            | Git, Kaggle                                                 |
 
 
