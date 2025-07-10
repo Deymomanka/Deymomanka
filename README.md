@@ -22,7 +22,7 @@ Pythonによるデータ抽出、データ前処理、可視化、データ分�
 | 🗄️ データベース        | PostgreSQL, MySQL                                           |
 | 📊 BIツール          | Tableau                                                     |
 | 🧪 開発環境           | Jupyter Notebook, Google Colab, VSCode |
-| 🔧 その他            | Git, Kaggle                                                 |
+| 🔧 その他            | Git, Kaggle, SIGNATE                                                 |
 
 
 
