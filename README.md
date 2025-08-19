@@ -14,6 +14,7 @@ Pythonによるデータ抽出、データ前処理、可視化、データ分�
 | カテゴリ              | ツール・ライブラリ                                                   |
 | ----------------- | ----------------------------------------------------------- |
 | 💻 プログラミング言語      | Python, R, SQL                                              |
+| 🤖 生成AI      | ChatGPT５, Gemini, Claude Code                                              |
 | 🔍 データ前処理         | NumPy, Pandas                                               |
 | 📊 データ可視化         | Matplotlib, Seaborn, Altair, Plotly                         |
 | 📐 統計分析・モデリング     | SciPy, Scikit-learn                                         |
